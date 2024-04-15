@@ -1,1 +1,2 @@
-# Prueba3EvcontinuaTDPAmador
+Este es mi repositorio de github : https://github.com/atortpot/Prueba3EvcontinuaTDPAmador.git
+El programa es como una tienda virtual donde puedes agregar diferentes tipos de elementos, como productos individuales o conjuntos de productos llamados kits. Puedes crear nuevos elementos simples o kits, agregar elementos a kits existentes y ver el precio total de un kit con cualquier descuento aplicado. Es como tener un catálogo de elementos y poder armar conjuntos con descuentos.
